@@ -1,4 +1,4 @@
-# basic-banking-system
+# banking-system
 Created a simple dynamic website which has the following specs.
 
 ◇ Starts with creating a dummy data in database for upto 10 
