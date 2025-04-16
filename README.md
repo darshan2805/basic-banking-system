@@ -1,7 +1,7 @@
 # banking-system
 Created a simple dynamic website which has the following specs.
 
-◇ Starts with creating a dummy data in database for upto 10 
+◇ Starts with data in database for upto 10 
    customers. Database: Mysql ,Customers table will have 
    basic fields such as name, email, current balance etc.
    Transfers table will record all transfers happened.
@@ -9,7 +9,4 @@ Created a simple dynamic website which has the following specs.
 ◇ Flow: Home Page > View all Customers > Select and View one Customer > 
   Transfer Money > Select customer to transfer to > View all Customers .
 
-◇ No Login Page. No User Creation. 
-   Only transfer of money between multiple users. 
-   
-◇ Hosted the website at 000webhost:https://darshan-grip-july21.000webhostapp.com/
+◇ transfer of money between multiple users. 
